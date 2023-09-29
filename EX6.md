@@ -52,8 +52,6 @@ END;
 ### Output:
 ![image](https://github.com/Sachin-vlr/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/113497666/7812831b-25e6-4caa-9ad9-67d25b1642fe)
 
-# RESULT:
+### RESULT:
 THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY...
 
-
-### Result:
